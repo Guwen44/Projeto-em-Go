@@ -1,0 +1,6 @@
+27/09/2023 16:35:22 - https://www.mercadolivre.com.br/ - online: true
+27/09/2023 16:35:22 - https://www.ifood.com.br/ - online: true
+27/09/2023 16:35:22 - https://pt.aliexpress.com/ - online: true
+27/09/2023 16:35:28 - https://www.mercadolivre.com.br/ - online: true
+27/09/2023 16:35:28 - https://www.ifood.com.br/ - online: true
+27/09/2023 16:35:28 - https://pt.aliexpress.com/ - online: true
